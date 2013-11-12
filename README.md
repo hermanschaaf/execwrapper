@@ -20,3 +20,9 @@ func main() {
 }
 
 ```
+
+#### Installation
+
+Like many good things in life, simply install with `go get`:
+
+    go get github.com/hermanschaaf/execwrapper
